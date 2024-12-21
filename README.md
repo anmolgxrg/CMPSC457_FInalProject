@@ -1,5 +1,3 @@
-![Blastar Game Animation](https://github.com/user-attachments/assets/c73cc5a6-eadb-4ad7-97d0-8db68d5cd1ef)
-
 ### Author:
 Anmol Garg  
 Course: CMPSC 457
